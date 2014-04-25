@@ -448,7 +448,7 @@
     <ciManagement>
         <system>Jenkins</system>
         <url>
-            http://melgar.homelinux.org:9994
+            http://captech.asuscomm.com:9994
         </url>
     </ciManagement>
 
