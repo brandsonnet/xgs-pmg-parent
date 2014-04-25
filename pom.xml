@@ -73,8 +73,7 @@
         </license>
     </licenses>
     <scm>
-        <connection>scm:svn:https://brandson.svn.cvsdude.com/brandson/ImageServer/trunk/pmg-parent</connection>
-        <developerConnection>scm:svn:https://brandson.svn.cvsdude.com/brandson/ImageServer/trunk/pmg-parent</developerConnection>
+        <connection>scm:git:git@github.com:eduardomelgar/xgs-pmg-parent.git</connection>
     </scm>
     <organization>
         <name>pmg.no</name>
@@ -204,7 +203,7 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <version>${maven-release-plugin.version}</version>
                 <configuration>
-                    <tagBase>https://brandson.svn.cvsdude.com/brandson/ImageServer/tags/pmg-parent</tagBase>
+                    <pomFileName>xgs-pmg-parent/pom.xml</pomFileName>
                 </configuration>
             </plugin>
             <plugin>
