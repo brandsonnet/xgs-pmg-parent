@@ -7,7 +7,7 @@
     <groupId>no.pmg</groupId>
     <artifactId>pmg-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.5-SNAPSHOT</version>
+    <version>1.5</version>
 
 
     <name>PMG :: Parent :: Common PMG Definitions POM</name>
@@ -74,7 +74,8 @@
     </licenses>
     <scm>
         <connection>scm:git:git@github.com:eduardomelgar/xgs-pmg-parent.git</connection>
-    </scm>
+      <tag>pmg-parent-1.5</tag>
+  </scm>
     <organization>
         <name>pmg.no</name>
         <url>http://www.pmg.no</url>
