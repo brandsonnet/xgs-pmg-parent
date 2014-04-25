@@ -51,7 +51,7 @@
         <developer>
             <id>melgar</id>
             <name>Eduardo Melgar</name>
-            <email>eduardo.melgar@gmail.com</email>
+            <email>eduardo.melgar@captech.eu</email>
             <organization>PMG AS</organization>
             <organizationUrl>http://www.pmg.no</organizationUrl>
             <roles>
@@ -63,7 +63,7 @@
     <mailingLists>
         <mailingList>
             <name>PMG's Customer Questions</name>
-            <post>eduardo.melgar@gmail.com</post>
+            <post>eduardo.melgar@captech.eu</post>
         </mailingList>
     </mailingLists>
     <licenses>
