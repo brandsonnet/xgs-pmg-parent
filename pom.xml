@@ -464,12 +464,12 @@
         <repository>
             <id>pmg-releases</id>
             <name>Repository for release versions of PMG's jars</name>
-            <url>http://captech.asuscomm.com:8081/nexus/content/repositories/pmg-releases</url>
+            <url>http://54.213.7.167/nexus/content/repositories/pmg-releases</url>
         </repository>
         <snapshotRepository>
             <id>pmg-snapshots</id>
             <name>Repository for snapshot versions of PMG's jars</name>
-            <url>http://captech.asuscomm.com:8081/nexus/content/repositories/pmg-snapshots</url>
+            <url>http://54.213.7.167/nexus/content/repositories/pmg-snapshots</url>
         </snapshotRepository>
     </distributionManagement>
 
