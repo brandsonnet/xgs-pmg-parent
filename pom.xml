@@ -7,7 +7,7 @@
     <groupId>no.pmg</groupId>
     <artifactId>xgs-pmg-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.9-SNAPSHOT</version>
+    <version>1.11-SNAPSHOT</version>
 
 
     <name>PMG :: Parent :: Common PMG Definitions POM</name>
